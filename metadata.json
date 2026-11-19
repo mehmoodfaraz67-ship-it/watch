@@ -1,0 +1,6 @@
+{
+  "name": "Vespera Horology",
+  "description": "Luxury watch storefront featuring curated men's, women's, mechanical, smart, and sports timepieces with WhatsApp concierge checkout and local inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
